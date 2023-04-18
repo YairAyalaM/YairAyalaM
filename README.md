@@ -1,5 +1,5 @@
 ### Hi I'm Yair 👋👨🏻‍💻
-<img src="https://portafolioyair.000webhostapp.com/Portafolio/images/yo.gif" alt="alt text" width="100%" height="300">
+<img src="https://portafolioyair.000webhostapp.com/Portafolio/images/yo.gif" alt="banner" width="960" height="400">
 
 <!--
 **YairAyalaM/YairAyalaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
